@@ -1,8 +1,5 @@
-# CallForCode2019
+# Call for Code 2019
 Links for Watson APIs, Watson Studio and Call for Code 2019
-
-# Hackathon Watson Prep
-2 hour agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud split into an Intro to  Watson (workshop 1) and hands-on labs (workshop 2). 
 
 ## Training Agenda
 
@@ -92,6 +89,10 @@ Links for Watson APIs, Watson Studio and Call for Code 2019
 * Traffic and weather: https://developer.ibm.com/code-and-response/technologies/traffic-weather
 * Internet of Things: https://developer.ibm.com/code-and-response/technologies/internet-of-things
 * Machine Learning: https://developer.ibm.com/code-and-response/technologies/machine-learning
+
+## Slides for Watson Studio
+
+* https://slides.com/upkar/ibm-callforcode
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
