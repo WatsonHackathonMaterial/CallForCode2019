@@ -64,7 +64,7 @@ Links for Watson APIs, Watson Studio and Call for Code 2019
   * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
   * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
-  * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+  * Visual Recognition Lab, train your own model: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Important Links - sample code and tutorials for Watson 
 * https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
